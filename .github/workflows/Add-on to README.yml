@@ -37,7 +37,7 @@ jobs:
                           url = f.read().strip().split('\n')[0].strip()
                           if url.startswith('http'):
                               # Format as an entry: * Filename: [Link](URL)
-                              links_list.append(f'* {filename}: [{url}]({url})')
+                              links_list.append(f'* [{filename}]({url})')
 
           content_to_insert = '\n'.join(links_list)
 
