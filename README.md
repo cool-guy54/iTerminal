@@ -3,7 +3,7 @@ A iOS shortcut that can run shortcuts in a specified folder.
 
 
 # Usage
-Before importing you should make a folder in the shortcuts app to put all add-ons to the majn shortcut. Next go to this link -> *dont have one yet* <- on your ios device and answer the import questions. Now your ready to make / use your shortcuts!
+Before importing you should make a folder in the shortcuts app to put all add-ons to the main shortcut. Next go to [this link](https://www.icloud.com/shortcuts/9c5a91a1a67a4ea4bdfed6fee8718862) on your ios device and answer the import questions. Now your ready to make / use your shortcuts!
 
 
 # Add-ons
