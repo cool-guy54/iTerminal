@@ -34,6 +34,8 @@ https://gist.github.com/andrewmcodes/9f011cfc6e99058c5f5cecc92ecaa9a0
 
 # Add-on Links
 
+To use an add-on, click on the one you want to use and add it to your selected folder in shortcuts.
+
 <!-- LINKS_START -->
 * [Apps](https://www.icloud.com/shortcuts/cb5613d488e345759a91a0a86fc6e28b)
 * [Calculator](https://www.icloud.com/shortcuts/a9ff019c13404fffb131d0610eeebc03)
@@ -55,3 +57,7 @@ https://gist.github.com/andrewmcodes/9f011cfc6e99058c5f5cecc92ecaa9a0
 * [Text](https://www.icloud.com/shortcuts/9890fa4873444e09bcdb0f8b4618a2f2)
 * [Weather](https://www.icloud.com/shortcuts/49c87c6fc8e248778f340fd6075f8fb1)
 <!-- LINKS_END -->
+
+
+# Todo
+make a thing when opening the main shortcut that shows battery % and stuff
